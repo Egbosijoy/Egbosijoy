@@ -2,7 +2,6 @@
 
 ## I am Egbosi Joy and i am a Data Analyst Enthusiast
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my fundamental skills in data analytics by participating in online courses and working on beginner-friendly projects.
 - 🌱 I’m currently learning Data Extraction,Cleaning,Transformation and Analysis using tools like SQL,Excel and Python.As well as using Tableau and Power BI for visualization.
